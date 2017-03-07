@@ -2,7 +2,7 @@
     "name": "atom-indent-sort",
     "author": "Patrick Vienneau <pvien027@gmail.com>",
     "version": "0.0.1",
-    "main": "./lib/template-json",
+    "main": "./lib/indent-sort",
     "scripts": {
         "test": "atom --test --timeout 4 ./spec/indent-sort.spec.js"
     },
