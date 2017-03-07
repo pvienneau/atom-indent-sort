@@ -9,3 +9,4 @@ const readFile = path => {
 }
 
 export const simple = split(readFile('simple.txt'));
+export const multiple = split(readFile('multiple.txt'));

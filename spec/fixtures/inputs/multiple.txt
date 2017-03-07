@@ -1,0 +1,19 @@
+Vegetables
+    zucchini
+    cucumber
+    Olive
+Fruits
+    Orange
+    Lime
+    lemon
+    apple
+====
+Fruits
+    apple
+    lemon
+    Lime
+    Orange
+Vegetables
+    cucumber
+    Olive
+    zucchini
